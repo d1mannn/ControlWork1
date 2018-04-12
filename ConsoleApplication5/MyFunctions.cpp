@@ -9,10 +9,12 @@ void RandomFileName(char * arr, int * count)
 void FilesCreation(int start, int end, int * count)
 {
 	FILE *newFile;
-	char a = fromIntToChar();
-	char fileName[] = "File # ";
-	itoa(1, fileName, a);
-//	errno_t err = fopen_s(&newFile, fileName, "w");
+	char a[2];
+	for (int i = 0; i < 2; i++)
+	{
+		a[i] = (char)*count;
+	}
+	errno_t err = fopen_s(&newFile, a, "w");
 }
 
 int fromIntToChar()

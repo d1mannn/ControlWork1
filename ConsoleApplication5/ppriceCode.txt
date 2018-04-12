@@ -3564,3 +3564,4 @@
 89561	"Подставка для ноутбука DeepCool N8mini, USB power, 14cm fan, 2 USB, up to 15"", black"	5681	5309
 104700	"Подставка для ноутбука DeepCool Wind Pal Mini, USB power, 14cm fan blue LED,  up to 15.6"", black"	3032	2888
 85048	"Подставка для ноутбука Logitech, Speaker Lapdesk N550, up to 14.1"", [939-000321], white"	5500	5500
+	

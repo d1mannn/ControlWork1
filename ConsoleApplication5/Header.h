@@ -4,6 +4,7 @@
 #include <time.h>
 #include <Windows.h>
 #include <locale.h>
+#include "Struct.h"
 
 void RandomFileName(char * arr, int * count);
 void FilesCreation(int start, int end, int * count);

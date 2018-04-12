@@ -1,0 +1,55 @@
+	Смартфоны, навигаторы (Smartphone, GPS)		
+128753	Fitness tracker Lime 111HR blue	11117	10588
+128755	Fitness tracker Lime 111HR red	11117	10588
+134359	"Huawei P9 Lite mini, Android 7.0, Quad-core 1.4GHz/16GB, 5.0""/Dual SIM/4G LTE, black"	54990	53912
+134360	"Huawei P9 Lite mini, Android 7.0, Quad-core 1.4GHz/16GB, 5.0""/Dual SIM/4G LTE, gold"	54990	53912
+134362	"Huawei Y3 2017, Android 6.0, Quad-core 1.1GHz/1GB/8GB, 5.0""/Dual SIM/4G LTE, gray"	37989	36883
+134361	"Huawei Y3 2017, Android 6.0, Quad-core 1.1GHz/8GB, 5.0""/Dual SIM/4G LTE, gold"	37990	37245
+130922	"Huawei Y5 II, Android 5,1, Quad-core 1.3GHz/8GB/5.0""/Dual SIM/4G LTE , gold"	36990	36265
+130923	"Huawei Y6 II, Android 6,0, Octa-core 1.2GHz/16GB/5.5""/Dual SIM/4G LTE , black"	53990	52931
+128007	"LeEco Le2, Android 6.0,  Octa-core 1.8GHz/32GB/5.5""/Dual SIM/4G LTE, grey"	64990	64990
+127919	"Lenovo A1000m, Android 5.1,  Quad-core 1.3GHz/4GB/4.0""/Dual SIM, white"	18990	18896
+127925	"Lenovo VIBE S1La40 Lite, Android 5.1,  Octa-core 1.3GHz/16GB/5.0""/Dual SIM/4G LTE, white"	59990	59990
+134723	Maxvi, K10, gold	0	0
+135751	Maxvi, M10, black	7290	6943
+134724	Maxvi, X500, silver	9790	9324
+134729	Maxvi, X600, coffie	11690	11133
+134732	Maxvi, X650, black	11690	11133
+134731	Maxvi, X700, marengo	11690	11133
+134730	Maxvi, X800, silver	11890	11324
+134728	Maxvi, X850, black	12390	11800
+134727	Maxvi, X850, gold	12390	11800
+134725	Maxvi, X850, silver	12390	11800
+126899	"MEIZU M3 Note, Android 5.1, Octa-core 1.8GHz/16GB/5,5""/Dual SIM/4G LTE, gold"	54990	54990
+128058	"MEIZU M3 Note, Android 5.1, Octa-core 1.8GHz/16GB/5,5""/Dual SIM/4G LTE, gray"	54990	54990
+126898	"MEIZU M3 Note, Android 5.1, Octa-core 1.8GHz/16GB/5,5""/Dual SIM/4G LTE, silver"	54990	54990
+133638	"MEIZU M5c, Android 6,0, Quad-core 1.3GHz/16GB/5.0""/Dual SIM/4G LTE, pink"	37990	37245
+130095	"MEIZU U10, Android 6.0, Octa-core 1.5GHz/16GB/5,0""/Dual SIM/4G LTE, gold"	45990	45761
+130096	"MEIZU U10, Android 6.0, Octa-core 1.5GHz/16GB/5,0""/Dual SIM/4G LTE, white"	45990	45761
+130098	"MEIZU U20, Android 6.0, Octa-core 1.8GHz/16GB/5,5""/Dual SIM/4G LTE, black"	49990	49741
+132977	"Samsung  Galaxy A3 2017, SM-A320F, Android 7.0, Octa-core-1.6GHz/16GB/4,7""/4G LTE, gold"	88990	87245
+135961	"Samsung  Galaxy A3 2017, SM-A320F, Android 7.0, Octa-core-1.6GHz/16GB/4,7""/4G LTE, peach cloud"	88990	87245
+135964	"Samsung  Galaxy A5 2017, SM-A520F, Android 7,0, Quad Core-1.9GHz/32GB/5.2""/Dual SIM, 4G LTE, peach"	111990	109794
+135963	"Samsung  Galaxy A5 2017, SM-A520F, Android 7.0, Quad Core-1.9GHz/32GB/5.2""/Dual SIM, 4G LTE, gold"	111990	109794
+133196	"Samsung  Galaxy A7 2017, SM-A720F,  Android 6.0, Octa-core-1.9GHz/32GB/5.7""/4G LTE, black"	134990	131058
+133195	"Samsung  Galaxy A7 2017, SM-A720F,  Android 6.0, Octa-core-1.9GHz/32GB/5.7""/4G LTE, gold"	134990	131058
+127926	"Samsung  Galaxy J2 Prime, SM-J532G, Android 6.0, Quad-core-1.4GHz/8GB/5.0""/Dual SIM/4G LTE, black"	42990	42904
+132796	"Samsung  Galaxy J2 Prime, SM-J532G, Android 6.0, Quad-core-1.4GHz/8GB/5.0""/Dual SIM/4G LTE, gold"	42990	42904
+132976	"Samsung  Galaxy J3 2017, SM-J330F, Android 7.0, Quad-core-1.4GHz/16GB/5.0""/Dual SIM, pink"	58990	58990
+125017	"Samsung  Galaxy J5 2016, SM-J510FN, Android 5.1, Quad-core-1.2GHz/16GB/5.2""/Dual SIM, gold"	53990	52931
+132972	"Samsung  Galaxy J5 2017, SM-J530FN, Android 7.0, Octa-core-1.6GHz/16GB/5.2""/Dual SIM, gold"	80990	80990
+124246	"Samsung  Galaxy J7 2016, SM-J710F, Android 5.1, Octa-core-1.6GHz/16GB/5.5""/Dual SIM, 4G LTE, black"	74990	74248
+124245	"Samsung  Galaxy J7 2016, SM-J710F, Android 5.1, Octa-core-1.6GHz/16GB/5.5""/Dual SIM, 4G LTE, gold"	74990	74248
+132974	"Samsung  Galaxy J7 2017, SM-J730F, Android 7.0, Octa-core-1.6GHz/16GB/5.5""/Dual SIM, 4G LTE, black"	95990	93194
+132975	"Samsung  Galaxy J7 2017, SM-J730F, Android 7.0, Octa-core-1.6GHz/16GB/5.5""/Dual SIM, 4G LTE, gold"	95990	93194
+137000	Texet, TM-129, black-red	3490	3324
+129984	Texet, TM-204, beige	0	0
+129987	Texet, TM-404, gold	9490	9038
+137001	Texet, TM-404, red	9490	9038
+137002	Texet, TM-513R, black-orange	16990	16181
+126866	Texet, TM-B114, black	7590	7229
+137003	Texet, TM-B306, red	7590	7229
+137004	Texet, TM-D427, black	9190	8752
+126304	"Xiaomi Mi Max, Android 6.0, Hexa-core 1.8GHz/16GB/6.44""/Dual SIM/4G LTE, gold"	79990	79990
+135676	"Xiaomi Redmi Note4, Android 6.0, Octa-core 2.0GHz/32GB/5.5""/Dual SIM/4G LTE, gold"	59990	59692
+133048	Xiaomi Weloop Hey 3S	54158	52581
